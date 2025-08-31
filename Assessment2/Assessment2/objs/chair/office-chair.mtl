@@ -1,0 +1,46 @@
+# Blender 4.4.1 MTL File: 'office-chair.blend'
+# www.blender.org
+
+newmtl OfficeChairCloth
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd textures/OfficeChairCloth_albedo.jpeg
+map_Ns textures/OfficeChairCloth_roughness.jpeg
+map_refl textures/OfficeChairCloth_metallic.jpeg
+
+newmtl OfficeChairLeather
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd textures/OfficeChairLeather_albedo.jpeg
+map_Ns textures/OfficeChairLeather_roughness.jpeg
+map_refl textures/OfficeChairLeather_metallic.jpeg
+
+newmtl OfficeChairMetal
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 3
+map_Kd textures/OfficeChairMetal_albedo.jpeg
+map_Ns textures/OfficeChairMetal_roughness.jpeg
+map_refl textures/OfficeChairMetal_metallic.jpeg
+
+newmtl OfficeChairPlastic
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd textures/OfficeChairPlastic_albedo.jpg
+map_Ns textures/OfficeChairPlastic_roughness.jpg
+map_refl textures/OfficeChairPlastic_metallic.jpg

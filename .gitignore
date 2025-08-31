@@ -1,0 +1,5 @@
+# VS temp files
+.vs/
+*/ipch/
+*.ipch
+*.db

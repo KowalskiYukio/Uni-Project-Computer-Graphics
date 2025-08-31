@@ -1,0 +1,39 @@
+﻿  Assessment2.cpp
+C:\Users\dzack\OneDrive - The University of Nottingham\Year 3\Spring\COMP3011 GRA\CW2\CW Files\include\file.h(18,11): warning C4267: 'initializing': conversion from 'size_t' to 'long', possible loss of data
+  (compiling source file 'Assessment2.cpp')
+  
+C:\Users\dzack\OneDrive - The University of Nottingham\Year 3\Spring\COMP3011 GRA\CW2\CW Files\include\obj_parser.h(91,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'Assessment2.cpp')
+  
+C:\Users\dzack\OneDrive - The University of Nottingham\Year 3\Spring\COMP3011 GRA\CW2\CW Files\include\model.h(46,15): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'Assessment2.cpp')
+  
+C:\Users\dzack\OneDrive - The University of Nottingham\Year 3\Spring\COMP3011 GRA\CW2\CW Files\include\model.h(117,47): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+  (compiling source file 'Assessment2.cpp')
+  
+C:\Users\dzack\OneDrive - The University of Nottingham\Year 3\Spring\COMP3011 GRA\CW2\CW Files\include\model.h(150,59): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+  (compiling source file 'Assessment2.cpp')
+  
+C:\Users\dzack\OneDrive - The University of Nottingham\Year 3\Spring\COMP3011 GRA\CW2\CW Files\include\model.h(150,44): warning C4267: 'argument': conversion from 'size_t' to 'GLint', possible loss of data
+  (compiling source file 'Assessment2.cpp')
+  
+C:\Users\dzack\OneDrive - The University of Nottingham\Year 3\Spring\COMP3011 GRA\CW2\CW Files\include\model.h(174,57): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+  (compiling source file 'Assessment2.cpp')
+  
+C:\Users\dzack\OneDrive - The University of Nottingham\Year 3\Spring\COMP3011 GRA\CW2\CW Files\include\model.h(174,42): warning C4267: 'argument': conversion from 'size_t' to 'GLint', possible loss of data
+  (compiling source file 'Assessment2.cpp')
+  
+C:\Users\dzack\OneDrive - The University of Nottingham\Year 3\Spring\COMP3011 GRA\CW2\CW Files\include\shadow.h(47,69): warning C4244: '=': conversion from 'float' to 'char', possible loss of data
+  (compiling source file 'Assessment2.cpp')
+  
+C:\Users\dzack\OneDrive - The University of Nottingham\Year 3\Spring\COMP3011 GRA\CW2\CW Files\include\shadow.h(48,69): warning C4244: '=': conversion from 'float' to 'char', possible loss of data
+  (compiling source file 'Assessment2.cpp')
+  
+C:\Users\dzack\OneDrive - The University of Nottingham\Year 3\Spring\COMP3011 GRA\CW2\CW Files\include\shadow.h(49,69): warning C4244: '=': conversion from 'float' to 'char', possible loss of data
+  (compiling source file 'Assessment2.cpp')
+  
+C:\Users\dzack\OneDrive - The University of Nottingham\Year 3\Spring\COMP3011 GRA\CW2\CW Files\Assessment2\Assessment2\Assessment2.cpp(125,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\dzack\OneDrive - The University of Nottingham\Year 3\Spring\COMP3011 GRA\CW2\CW Files\Assessment2\Assessment2\Assessment2.cpp(126,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\dzack\OneDrive - The University of Nottingham\Year 3\Spring\COMP3011 GRA\CW2\CW Files\include\bitmap.h(34,1): warning C4715: 'savebitmap': not all control paths return a value
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  Assessment2.vcxproj -> C:\Users\dzack\OneDrive - The University of Nottingham\Year 3\Spring\COMP3011 GRA\CW2\CW Files\Assessment2\x64\Debug\Assessment2.exe
